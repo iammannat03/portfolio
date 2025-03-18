@@ -23,7 +23,7 @@ const HeroMain = (props: Props) => {
           </div>
         </div>
         <div className="text-4xl font-bold w-96 text-center">
-          Building digital products, brands, and experience.
+          Crafting digital experiences that truly resonate.
         </div>
         <CustomButton className="bg-black text-white px-8 py-6">
           Latest Shots
